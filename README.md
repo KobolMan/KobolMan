@@ -1,6 +1,6 @@
 # 👨‍💻 KobolMan
 
-**Embedded Systems Engineer | Automation | Electromechanical Thinkerer**
+**Embedded Systems Engineer | Automation Engineer | Industrial & Electromechanical Engineer**
 
 ---
 
